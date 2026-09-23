@@ -1,109 +1,170 @@
 <div align="center">
 
-# Hi, I'm Muliadi 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1D4ED8,100:0EA5E9&height=190&section=header&text=MULIADI&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Full%20Stack%20Web%20Developer&descSize=18&descAlignY=55&animation=fadeIn" />
 
-### Full Stack Web Developer
+<a href="mailto:muliadi.tech@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Muly-Adi">
+  <img src="https://img.shields.io/badge/GITHUB-MULY--ADI-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/AVAILABLE_FOR-WORK-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available for Work" />
 
-Information Systems graduate based in **Medan, North Sumatra, Indonesia**.
+<br/><br/>
 
-I build responsive, maintainable, and business-focused web applications using **Laravel, PHP, JavaScript, and MySQL**.
+**Medan, North Sumatra, Indonesia**
 
-[![Email](https://img.shields.io/badge/Email-muliadi.tech%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muliadi.tech@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Muly--Adi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muly-Adi)
-![Open to Work](https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge)
+I build web applications that are clean, practical, responsive, and ready for real business use.
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a **Bachelor of Information Systems graduate** with a strong interest in full stack web development and information technology.
+I'm **Muliadi**, an Information Systems graduate focused on **Full Stack Web Development**.
 
-I enjoy turning business needs into practical web solutions. My experience includes building and maintaining Laravel-based websites, developing CMS features, working with databases, improving responsive interfaces, implementing technical SEO, using Git for version control, and deploying applications to production hosting.
+My work covers the full web development flow, from interface implementation and backend logic to database management, CMS development, SEO, Git workflow, deployment, and production maintenance.
 
-- 💻 Focused on **Full Stack Web Development**
-- 🧩 Comfortable working across frontend, backend, database, and deployment
-- 🌱 Continuously improving my skills in Laravel, JavaScript, REST APIs, testing, and clean code
-- 📍 Based in Medan, Indonesia
-- 💼 Open to opportunities in **Web Development, Full Stack Development, and IT**
+> I like building systems that are useful, easy to manage, and clear for the people who use them.
 
----
-
-## Tech Stack
-
-### Backend & Database
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Tools & Workflow
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**Additional skills:** REST API fundamentals • Responsive Web Design • CMS Development • Web Deployment • Technical SEO • Microsoft Office
+- 🔹 Main stack: **Laravel, PHP, JavaScript, MySQL**
+- 🔹 Experience with **CMS development, responsive UI, technical SEO, and deployment**
+- 🔹 Comfortable working with **Git, GitHub, hosting, and production environments**
+- 🔹 Open to opportunities in **Web Development, Full Stack Development, and IT**
 
 ---
 
-## Featured Project
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,git,github,vscode&perline=9" alt="Tech Stack" />
+
+<br/><br/>
+
+<code>Laravel</code> · <code>PHP</code> · <code>MySQL</code> · <code>JavaScript</code> · <code>HTML</code> · <code>CSS</code> · <code>Git</code> · <code>GitHub</code> · <code>VS Code</code>
+
+</div>
+
+### Also familiar with
+
+<code>REST API</code> · <code>Responsive Web Design</code> · <code>CMS Development</code> · <code>Web Deployment</code> · <code>Technical SEO</code> · <code>Microsoft Office</code>
+
+---
+
+## 🚀 Selected Work
+
+<table>
+<tr>
+<td width="68%" valign="top">
 
 ### KING COCOPRIME
 
 **Corporate Export & Product Website**
 
-A live business website for an Indonesian charcoal exporter, developed and maintained using Laravel and modern web technologies.
+A production website built and maintained for an Indonesian charcoal export business.
 
-**Key work:**
+I worked across the website's frontend, backend, CMS, content architecture, SEO, multilingual features, Git workflow, and production deployment.
 
-- Developed and maintained a custom Laravel CMS
-- Managed product, news, gallery, and website content features
-- Implemented multilingual website support
-- Improved responsive layouts for desktop and mobile
-- Implemented technical SEO, sitemap, canonical URLs, and structured data
-- Used Git and GitHub for version control
-- Deployed and maintained the application on production hosting
+**Key contributions**
 
-**Stack:** `Laravel` `PHP` `MySQL` `JavaScript` `HTML` `CSS` `Git`
+- Custom Laravel CMS
+- Product, news, gallery, and content management
+- Multilingual website structure
+- Responsive desktop and mobile experience
+- Sitemap, canonical URLs, and structured data
+- Git-based development workflow
+- Production deployment and maintenance
 
-🌐 [Visit KING COCOPRIME](https://kingcocoprime.com)
+**Stack**
 
-> The source repository is private because it contains business project code.
+<code>Laravel</code> <code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>Git</code>
+
+</td>
+<td width="32%" valign="top" align="center">
+
+<br/>
+
+### Live Project
+
+<a href="https://kingcocoprime.com">
+<img src="https://img.shields.io/badge/VISIT-WEBSITE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website" />
+</a>
+
+<br/><br/>
+
+**Status**  
+🟢 Production
+
+<br/>
+
+**Repository**  
+🔒 Private
+
+</td>
+</tr>
+</table>
 
 ---
 
-## What I'm Improving
+## 🧭 How I Work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 01 · Build
+Turn requirements into working features with a clear structure and maintainable code.
+
+</td>
+<td width="33%" valign="top">
+
+### 02 · Improve
+Refine UI, responsiveness, SEO, performance, content flow, and usability.
+
+</td>
+<td width="33%" valign="top">
+
+### 03 · Ship
+Use Git, test changes, deploy to production, and maintain the application after release.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Current Focus
+
+I'm strengthening the areas that matter most for production-ready web development:
 
 - Laravel application architecture
 - REST API development
-- JavaScript fundamentals and modern frontend practices
+- JavaScript fundamentals
 - Database design and query optimization
 - Application security
 - Automated testing
-- Clean Git workflow and documentation
+- Clean Git workflow and technical documentation
 
 ---
 
-## Let's Connect
-
-I'm currently building my professional portfolio and expanding my public GitHub projects.
-
-📧 **Email:** [muliadi.tech@gmail.com](mailto:muliadi.tech@gmail.com)
-
-📍 **Location:** Medan, North Sumatra, Indonesia
-
----
+## 🤝 Let's Connect
 
 <div align="center">
 
-**Build useful software. Keep learning. Keep improving.**
+I'm currently building more public projects and a dedicated portfolio website.
+
+<br/>
+
+<a href="mailto:muliadi.tech@gmail.com">
+  <img src="https://img.shields.io/badge/muliadi.tech%40gmail.com-EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muliadi" />
+</a>
+
+<br/><br/>
+
+**Full Stack Web Developer · Medan, Indonesia**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1D4ED8,100:111827&height=110&section=footer" />
