@@ -59,6 +59,60 @@ My work covers the full web development flow, from interface implementation and 
 <tr>
 <td width="68%" valign="top">
 
+### RUMAH JAHIT LINA SALES INFORMATION SYSTEM
+
+**Sales, Inventory & Transaction Management System**
+
+A public Laravel portfolio project developed from my Bachelor's thesis in Information Systems.
+
+The system handles product and stock management, customer transactions, checkout, shipping, invoices, payments, reporting, and role-based access for Admin, Employee, and Customer.
+
+**Key features**
+
+- Role-based access control
+- Product, category, variant, and inventory management
+- Shopping cart and checkout workflow
+- Midtrans payment integration
+- Shipping cost integration
+- Transaction, invoice, and sales reporting
+- Ratings and reviews
+- Public repository cleaned of sensitive credentials and production data
+
+**Stack**
+
+<code>Laravel 12</code> <code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>Tailwind CSS</code> <code>Vite</code>
+
+</td>
+<td width="32%" valign="top" align="center">
+
+<br/>
+
+### Public Project
+
+<a href="https://github.com/Muly-Adi/rumah-jahit-lina-sales-system">
+<img src="https://img.shields.io/badge/VIEW-REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
+
+<br/><br/>
+
+**Type**  
+🎓 Bachelor's Thesis
+
+<br/>
+
+**Repository**  
+🟢 Public
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
 ### KING COCOPRIME
 
 **Corporate Export & Product Website**
